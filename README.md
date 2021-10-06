@@ -1,8 +1,8 @@
-# Hello
+![Hello](https://thumbs.gfycat.com/ConsciousAmbitiousAntipodesgreenparakeet-size_restricted.gif)
 
 ## How extremely cool of you to visit my GitHub
 
-### I'm an aspiring programmer looking to break into the field of web development
+### I'm glad you made it
 
 #### My pronouns are he/him
 
