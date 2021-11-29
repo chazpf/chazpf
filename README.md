@@ -10,12 +10,11 @@ I'm currently enrolled in **General Assembly's** *Software Engineering Immersive
 
 My journey has taken me from a creative writing degree, to performing local comedy, to teaching preschool, to learning Agile for Scrum Master certification, to teaching myself the basics of web development, to now. Ask me about anything I've done! 
 
-My passions include, in no particular order:
-- Gaming (board, card, or video)
-- Fantasy fiction
-- Science fiction
-- Science facts
-- Math & Philosophy
+My major projects include:
+- [Monster Autobattler](https://github.com/chazpf/Monster_AutoBattle)
+- [Junk Droor](https://github.com/chazpf/Junk-Droor)
+- Tinier Bananas, which has a seperate [front end](https://github.com/chazpf/Tinier_Bananas-frontend) and [backend](https://github.com/chazpf/Tinier_Bananas-backend)
+- Brackets-R-Us, which also has a seperate [front end](https://github.com/squaye6756/BracketsRUs-front) and [back end](https://github.com/squaye6756/BracketsRUs-back)
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/chazformichella/), where I'm always looking to expand my network.
 
